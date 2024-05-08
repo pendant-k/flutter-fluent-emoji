@@ -1,0 +1,4 @@
+enum EmojiFormat {
+  png,
+  svg,
+}
